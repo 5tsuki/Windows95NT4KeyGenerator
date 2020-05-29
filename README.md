@@ -13,6 +13,7 @@ I bumped into [FlyTech's Video](https://youtu.be/3DCEeASKNDk) and at the end of 
 The activation key is not checked via server but with an algorithm and when the Windows NT 4.0 code was leaked they figured out how the algorithm worked.
 
 ## How does it work?
-When prompted type what type of code you want to be generated. ("normal" or "oem")
+1. When prompted type what type of code you want to be generated. ("normal" or "oem").
+2. Then a file (key.txt) will be created with the code in it. 
 
 ### This code is only for educational purposes, piracy is not okay, buy the software you are using.
