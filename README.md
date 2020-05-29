@@ -1,6 +1,6 @@
 # Windows NT 4.0 and Windows 95 Key Generator
 ## Why?
-I bumped into [FlyTech's Video](https://youtu.be/3DCEeASKNDk) and at the end of the video he challenged the viewers to make a program to generate the keys, so I tried, and this is the result. The code isn't optimal but it works.
+I bumped into [FlyTech's Video](https://youtu.be/3DCEeASKNDk) and at the end of the video he challenged the viewers to make a program to generate the keys, so I tried, and this is the result. The code isn't optimal but it works (I made it in about an hour).
 
 ------------
 
