@@ -5,7 +5,7 @@ I bumped into [FlyTech's Video](https://youtu.be/3DCEeASKNDk) and at the end of 
 ## More info
 You can check out my JavaScript version [[HERE]](https://github.com/nilaerdna/windows95keygen/).
 
-## How does it work?
+## How to use itng fancy, just rewrote the Python code with the matching Ja?
 1. Run the code.
 2. When prompted type what type of code you want to be generated. ("normal" or "oem").
 3. Then a file (key.txt) will be created with the code in it. 
